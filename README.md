@@ -1,3 +1,5 @@
+# NOT READY FOR USE
+
 # autowrapped-cimgui
 
 This is simply a package containing the raw bindings for cimgui.
