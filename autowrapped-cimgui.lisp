@@ -10,7 +10,6 @@
  :symbol-regex
  (("^ig[A-Z]" () (lambda (string matches regex)
                    (declare (ignore matches regex))
-                   (print string)
                    (subseq string 2))))
  :release-p cl:t ;; this stops message in logs
  :no-accessors cl:t)
